@@ -22,6 +22,6 @@ If you encounter any issues or bugs within the project, please feel free to repo
 
 ## Contact
 
-If you have any further questions or need additional assistance, please feel free to reach out to us at [email@example.com].
+If you have any further questions or need additional assistance, please feel free to reach out to us at [Pawshelter@info.com].
 
 Thank you for your interest in contributing to **Paw Shelter** and for your dedication to our furry companions!
