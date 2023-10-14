@@ -1,0 +1,22 @@
+#services {
+    flex-direction: column;
+}
+
+#services .box {
+    padding: 16px;
+    margin: 4px 0px;
+    margin-bottom: 24px;
+}
+#services .box-1 {
+    padding: 5px;
+    margin: auto;
+    margin-bottom: 24px;
+    width: 50%;
+}
+.button-3{
+    position: absolute;
+    left: 43%;
+    width: 150px;
+    font-size: 1.2rem;
+  }
+

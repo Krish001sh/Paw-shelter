@@ -1,0 +1,181 @@
+h1 {
+  font-family: 'Montserrat, sans-serif';
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.logo-img {
+  width: 80px;
+  height: 80px;
+  margin: 0 10px 0 0;
+}
+.logo-img1 {
+  width: 50px;
+  height: 50px;
+  margin: 0 10px 0 0;
+}
+
+body {
+  font-family: "Montserrat";
+}
+
+.ti {
+  color: black;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0px 25px;
+  text-align: center;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.title {
+  background-color: #ff4c68;
+}
+
+#features {
+  padding: 8% 16%;
+  background-color: white;
+  position: relative;
+}
+
+h3 {
+  font-family: "Montserrat-bold";
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.container-fluid {
+  padding: 15% 15%;
+}
+
+/* Navigation Bar  */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.6rem;
+  font-family: "Montserrat-light";
+}
+
+/* Button */
+.download-button {
+  margin: 4% 5% 6% 0;
+}
+
+/* Title Image */
+.title-image {
+  width: 60%;
+  transform: rotate(20deg);
+  margin-top: 60px;
+  position: absolute;
+}
+
+/* Feature Box */
+.feature-box {
+  text-align: center;
+  padding-left: 5%;
+}
+
+.font-icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.font-icon:hover {
+  color: #ff4c68;
+}
+
+#services {
+  display: flex;
+  margin: 34px;
+
+}
+
+#services .box {
+  border: 2px solid red;
+  padding: 34px;
+  margin: 22px 60px;
+  border-radius: 28px;
+  background: #f2f2f2;
+  margin-bottom: 20px;
+  box-shadow: 13px 13px 10px 6px grey;
+  text-align: center;
+}
+#services .box-1 {
+  border: 2px solid black;
+  color: black;
+  padding: 34px;
+  margin: 22px 60px;
+  border-radius: 28px;
+  background: #e69f9f;
+  margin-bottom: 20px;
+  box-shadow: 13px 13px 10px 6px rgb(222, 218, 218);
+  text-align: center;
+}
+#services .box-1 h3,h2,p{
+  color: black;
+}
+
+#services .box p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+#services .box img {
+  margin: auto;
+  display: block;
+  height: 170px;
+}
+
+.p-food {
+  text-align: center;
+  font-size: 2.3rem;
+}
+
+.box button:hover {
+  color: white;
+  background-color: black;
+  cursor: pointer;
+}
+
+hr {
+  color: black;
+  border-style: dotted none none;
+  border-color: gray;
+  border-width: 6px;
+  width: 5%;
+  margin: 50px auto;
+}
+.center{
+  text-align: center;
+}
+
+.button-3{
+  position: absolute;
+  left: 40%;
+  width: 260px;
+  font-size: 1.8rem;
+}
+.p-4{
+  color: red;
+}
