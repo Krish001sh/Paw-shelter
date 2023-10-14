@@ -1,15 +1,15 @@
-# Paw Shelter
+# 🐾 Paw Shelter
 
 Paw Shelter is an online platform dedicated to providing a loving and secure environment for dogs in need of shelter and care. Our mission is to connect compassionate individuals with adoptable dogs, ensuring their well-being through regular check-ups and fostering a community that values animal welfare and companionship.
 
-## Features
+## 🚀 Features
 
-- Browse and view profiles of dogs available for adoption.
-- Learn about our shelter's mission and values.
-- Get information about our regular check-up and care programs.
-- Connect with us to inquire about adoption and volunteering opportunities.
-
-## Getting Started
+- **Discover Dogs**: Browse profiles of dogs available for adoption.
+- **Our Mission**: Learn about our mission and values.
+- **Care Programs**: Get info on our regular check-ups and care initiatives.
+- **Connect with Us**: Inquire about adoption and volunteering opportunities.
+  
+## 🛠️ Getting Started
 
 To get the frontend running locally:
 
@@ -20,10 +20,10 @@ To get the frontend running locally:
 
 The application will be available at `http://localhost:3000`.
 
-## Contributing
+## 🤝 Contributing
 
-We welcome contributions from the community. Please read the [contribution rules](contribution.md) for more details on how to get started.
+We welcome contributions from the community. Please read the [contribution guidelines](contribution.md) for more details on how to get started.
 
-## Contact
+## 📧 Contact
 
 For any questions or inquiries, please reach out to us at [Pawshelter@info.com].
