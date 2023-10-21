@@ -22,7 +22,6 @@ The application will be available at `http://localhost:3000`.
 
 ## 🤝 Contributing
 
-We welcome contributions from the community. Please read the [contribution guidelines](contribution.md) for more details on how to get started.
 
 ## 📧 Contact
 
